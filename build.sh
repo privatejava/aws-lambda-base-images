@@ -1,0 +1,1 @@
+docker build -t python3.11:local -f Dockerfile.python3.11 .

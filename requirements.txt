@@ -1,0 +1,5 @@
+langchain==0.0.345
+faiss-cpu==1.7.4
+requests==2.31.0
+llama-index==0.9.10
+transformers[torch]==4.35.2
